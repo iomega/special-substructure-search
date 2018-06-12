@@ -1,3 +1,8 @@
+12 June 2018
+
+NPASS database was obtained from authors of the paper. It is present in the non-formatted folder as it does not follow the same layout as the others yet.
+
+
 11 June 2018
 
 Molecular databases downloaded November 2017
